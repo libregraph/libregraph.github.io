@@ -14,3 +14,16 @@ edit_uri: 'edit/main/docs/'
 markdown_extensions:
     - toc:
         separator: "_"
+
+# pip3 install mkdocs-material
+theme:
+  name: material
+  feature:
+    tabs: true
+  palette:
+    primary: light blue
+    accent: red
+  font:
+    text: Work Sans
+    code: Menlo
+  custom_dir: 'theme'
