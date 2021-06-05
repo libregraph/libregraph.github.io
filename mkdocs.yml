@@ -3,8 +3,10 @@ copyright: © 2021 Kopano b.v.
 site_author: LibreGraph Maintainers
 nav:
     - Home: index.md
+    - Development: development.md
     - Discussion: "https://github.com/LibreGraph/libregraph.github.io/discussions"
     - Demo: demo.md
+    - Links: links.md
 
 # Project source specific:
 repo_name: 'GitHub'
@@ -14,12 +16,15 @@ edit_uri: 'edit/main/docs/'
 markdown_extensions:
     - toc:
         separator: "_"
+        permalink: true
 
 # pip3 install mkdocs-material
 theme:
   name: material
-  feature:
-    tabs: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
   palette:
     primary: light blue
     accent: red
