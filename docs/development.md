@@ -6,7 +6,7 @@
 
 ## Backends
 
-LibreGraph was designed with a pluggable backend system in mind. Backends can be mixed and backends providing the same data (e.g. Kopano and IMAP for mail access) can be used at the same time.
+LibreGraph was designed with a plug-able backend system in mind. Backends can be mixed (e.g. one backend for calendar data and one for file data) and backends providing the same kind of data (e.g. Kopano and IMAP for mail access) can even be used at the same time.
 
 ### Kopano
 
