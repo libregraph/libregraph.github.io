@@ -32,6 +32,6 @@ theme:
     primary: light blue
     accent: red
   font:
-    text: Work Sans
-    code: Menlo
+    text: Roboto
+    code: Roboto Mono
   custom_dir: 'theme'
