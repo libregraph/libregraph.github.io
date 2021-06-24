@@ -10,8 +10,9 @@ This page is currently under construction. [Let us know](https://github.com/Libr
 
 ## Partners & compatible applications
 
-- [Kopano](https://kopano.com/products/groupware/one/)
 - [Harmonizely](https://harmonizely.com/?fpr=withkopano)
+- [Kopano](https://kopano.com/products/groupware/one/)
+- [ownCloud](https://owncloud.com/)
 
 ## Contribute
 

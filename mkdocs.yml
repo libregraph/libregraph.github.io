@@ -6,6 +6,7 @@ nav:
   - Development:
     - Architecture: development.md
     - Components: development/components.md
+    - Roadmap: development/roadmap.md
   - Discussion: discussion.md
   - Demo: demo.md
   - Links: links.md
